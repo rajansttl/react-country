@@ -1,6 +1,18 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+----------------------------
+React Library
+- React Router DOM
+- To create ROUTE and Navbar
+----------------------------
+AXIOS
+To Fetch API data
+----------------------------
+React Icons
+----------------------
+
+
 
 Currently, two official plugins are available:
 
