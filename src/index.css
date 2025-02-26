@@ -58,7 +58,6 @@ header {
 .navbar-grid {
   grid-template-columns: 0.5fr 1fr;
   align-items: center;
- 
 }
 
 nav ul {
@@ -83,4 +82,29 @@ nav ul li a:hover {
 .Logo a {
   color: #fff;
   text-decoration: none;
+}
+
+.hero-image {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.bannerImage {
+  max-width: 300px;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
 }/*# sourceMappingURL=index.css.map */
