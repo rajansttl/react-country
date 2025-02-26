@@ -58,7 +58,7 @@ header {
 .navbar-grid {
   grid-template-columns: 0.5fr 1fr;
   align-items: center;
-  padding: 0 3.2rem;
+ 
 }
 
 nav ul {
