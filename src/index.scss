@@ -1,0 +1,40 @@
+
+/*color*/
+$black: #000000;
+$white : #fff;
+/*font*/
+$Arial: Arial, sans-serif;
+/*size*/
+$midFont : 16px;
+/*others*/
+$borderRadius:5px;
+$paddingBtns:10px;
+
+body {
+  background-color: $black;
+  color:$white;
+  font-family: $Arial;
+  font-size: $midFont;
+}
+* {transition: all 0.3s ease;} // Add transition to all elements
+@mixin button-style {
+  color: $white;
+  background-color: $black;
+  font-size:$midFont;
+  border: 1px solid $white;
+  border-radius: $borderRadius;
+  padding: $paddingBtns;
+  cursor:pointer;
+  &:hover {
+    background-color: $white;  // Change background color on hover
+    color: $black;  // Change text color on hover
+    border: 1px solid $black;  // Change border color on hover
+  }
+}
+
+button {
+  @include button-style;  
+}              
+
+
+

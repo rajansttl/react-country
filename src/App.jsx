@@ -1,11 +1,8 @@
 import React from "react";
+import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import AppLayout from "./components/Layout/AppLayout";
 
-
-
-
-import "./App.css";
 
 import Home from "./pages/Home";
 import About from "./pages/About";
