@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125960000,
+    "interestingFact": "Japan has more than 6,800 islands, and it is home to Mount Fuji, the highest mountain in Japan."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which is the largest tropical rainforest in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is the only continent that is also a country, and it is home to the Great Barrier Reef, the world's largest coral reef."
+  },
+  {
+    "id": 4,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67372000,
+    "interestingFact": "France is the most visited country in the world, attracting over 89 million visitors annually."
+  },
+  {
+    "id": 5,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "interestingFact": "India has 22 officially recognized languages and more than 2,000 distinct languages spoken across the country."
+  },
+  {
+    "id": 6,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "interestingFact": "Canada has the longest coastline of any country, stretching over 202,080 kilometers."
+  },
+  {
+    "id": 7,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 60265000,
+    "interestingFact": "Italy is home to the most UNESCO World Heritage Sites, with 58 sites."
+  },
+  {
+    "id": 8,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 128933000,
+    "interestingFact": "Mexico City is sinking by around 10cm a year due to the excessive extraction of groundwater."
+  },
+  {
+    "id": 9,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1393409038,
+    "interestingFact": "China is home to the Great Wall, which is over 21,000 kilometers long."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 59308690,
+    "interestingFact": "South Africa is the only country in the world that has hosted both the Olympic Games and the FIFA World Cup."
+  },
+  {
+    "id": 11,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 91250000,
+    "interestingFact": "The Great Pyramid of Giza, one of the Seven Wonders of the Ancient World, is located in Egypt."
+  },
+  {
+    "id": 12,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 145912025,
+    "interestingFact": "Russia is the largest country in the world, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 13,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83166711,
+    "interestingFact": "Germany is known for its engineering and is the home of the world's first automobile, invented by Karl Benz."
+  },
+  {
+    "id": 14,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 331002651,
+    "interestingFact": "The United States is home to the world's first national park, Yellowstone, established in 1872."
+  },
+  {
+    "id": 15,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The United Kingdom was the first country to have a parliamentary system of government."
+  },
+  {
+    "id": 16,
+    "countryName": "Spain",
+    "capital": "Madrid",
+    "population": 46719142,
+    "interestingFact": "Spain is home to the oldest continuously operating restaurant in the world, Botín, established in 1725."
+  },
+  {
+    "id": 17,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45195777,
+    "interestingFact": "Argentina is famous for its tango dance and is one of the largest producers of wine in the world."
+  },
+  {
+    "id": 18,
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "population": 8654622,
+    "interestingFact": "Switzerland is home to some of the best chocolates and watches in the world."
+  },
+  {
+    "id": 19,
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "population": 5421241,
+    "interestingFact": "Norway has a midnight sun in summer and polar nights in winter above the Arctic Circle."
+  },
+  {
+    "id": 20,
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "population": 4822233,
+    "interestingFact": "New Zealand was the first country to grant women the right to vote in 1893."
+  }
+]

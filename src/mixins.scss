@@ -7,8 +7,14 @@
   border-radius: $borderRadius;
   padding: $paddingBtns;
   cursor:pointer;
+  display: flex;
+  align-items: center;
+  svg {
+    margin-left: 10px;
+  }
+
   &:hover {
-    background-color: $white;  // Change background color on hover
+    background-color: $greenYellow;  // Change background color on hover
     color: $black;  // Change text color on hover
     border: 1px solid $black;  // Change border color on hover
   }
